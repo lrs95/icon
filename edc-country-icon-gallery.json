@@ -4,8 +4,10 @@
 "icons":
 [
 	{"name":"CN", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Policy-Country\/CN.png"},  
+	{"name":"HK01", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Policy-Country\/HK.png"}, 
 	{"name":"HK02", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Policy-Country\/HK02.png"}, 
-	{"name":"TW02", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Policy-Country\/TW.png"}, 
+	{"name":"TW01", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Policy-Country\/TW.png"},
+	{"name":"TW02", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Policy-Country\/TW02.png"},
 	{"name":"JP", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Policy-Country\/JP.png"},
 	{"name":"KR", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Policy-Country\/KR.png"},
 	{"name":"SG", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Policy-Country\/SG.png"},
